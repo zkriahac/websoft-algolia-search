@@ -64,3 +64,7 @@ you need to define new filters as the current added, so, you have tow files
 - route.js: in these places
 
 `createURL, routeToState, getStateMapping`
+
+![AutoComplete](https://i.ibb.co/B2p5twz/Screenshot-2024-01-07-at-01-58-24.png)
+
+![InstanceSearch] (https://i.ibb.co/h8mhK22/Screenshot-2024-01-07-at-01-49-10.png)
